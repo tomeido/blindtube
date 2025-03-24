@@ -6,9 +6,9 @@ CUDA Toolkit Installer
 
 https://huggingface.co/heegyu/EEVE-Korean-Instruct-10.8B-v1.0-GGUF
 
-https://www.youtube.com/watch?v=nl-K0XSus9I
-
 MeloTTS - Local Install of this REALLY fast TTS (on par with PiperTTS)
+
+https://www.youtube.com/watch?v=nl-K0XSus9I
 
 ---------------------
 
