@@ -1,3 +1,7 @@
+blind hot issue to youtube shorts using llm
+
+-------------------
+
 pip install requests beautifulsoup4 selenium webdriver-manager gtts fake-useragent pandas moviepy==1.0.3 openai openai-whisper moviepy pysrt ffmpeg-python google-api-python-client google-auth-oauthlib
 
 --------------------
